@@ -1,7 +1,7 @@
 # 图像字幕大师
 本项目会通过keras搭建一个深度卷积神经网络来为图片生成一行字幕
 ## 最终结果
-![Network](/result.jpg)
+![result](/result.jpg)
 ## 网络架构
 ![Network](/image_caption.png)
 ## 数据集
